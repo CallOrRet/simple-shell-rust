@@ -1,0 +1,10 @@
+[package]
+name = "simple-shell"
+version = "0.1.0"
+authors = ["CallOrRet <CallOrRet@outlook.com>"]
+edition = "2021"
+rust-version = "1.80"
+
+[dependencies]
+home = "0.5"
+libc = "0.2"
